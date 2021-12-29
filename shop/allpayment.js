@@ -1,31 +1,33 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY BAYU OFC
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ TIDAK TERSEDIA
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ TIDAK TERSEDIA
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ TIDAK TERSEDIA
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ TIDAK TERSEDIA
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0895 2551 8325
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ TIDAK TERSEDIA
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0812 8586 6502
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama B***R**
 
 *📲 PULSA*
 
-Tidak tersedia
+TELKOMSEL : 0812 8586 6502
+AXIS : 0838 3444 1926
+TRI : 0895 2551 8325
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
