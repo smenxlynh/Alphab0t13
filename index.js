@@ -179,7 +179,7 @@ fthumb = setting.fakethumb
 hit_today = []
 blocked = []
 ban = []
-limitawal = "50"
+limitawal = "35"
 gcounttprem = "50" 
 gcounttuser = "25" 
 
@@ -204,8 +204,8 @@ autoketik = false
 autoregister = setting.user_register
 typemenu = 'document'
 img = setting.img
-apiku = 'https://zeeoneofc.github.io/'
-gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
+apiku = 'https://Bayubotz5.github.io/'
+gc_wa_lu = 'https://chat.whatsapp.com/CG8MUUI461d0OCaEwuSryE' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
 fake = setting.fake
@@ -710,7 +710,7 @@ return planet[position].id
             }
         }
     		//AKHIRNYA SELESEI NI GO PLANET (◡ ω ◡)
-    //by ARYA & FELIX
+    //by BAYUBOTZ & BAYU
 //mining coal
         const addCoal = (sender, amount) => {
         let position = false
