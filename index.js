@@ -160,7 +160,7 @@ var nomor_ovo = `tidak tersedia\nA.N tidak tersedia` //gk usah di ubah ya klo gk
 var nomor_dana = `081285866502\nA.N B***R**` //gk usah di ubah ya klo gk punya ntr eror
 var nomor_gopay = `089525518325\nA.N B***R**` //gk usah di ubah ya klo gk punya ntr eror
 var qr_code_ovo = 'https://h.top4top.io/p_2053vk0uw1.jpg' //gk usah di ubah ya klo gk punya ntr eror
-var qr_code_dana = 'https://j.top4top.io/p_20532posd1.jpg' //gk usah di ubah ya klo gk punya ntr eror
+var qr_code_dana = 'https://j.top4top.io/p_2189u445y0.jpg' //gk usah di ubah ya klo gk punya ntr eror
 var qr_code_gopay = 'https://a.top4top.io/p_21896sf850.jpg' //gk usah di ubah ya klo gk punya ntr eror
 
 var _minggu = 'Rp 10.000,00' //Masukkan harga sewa sesuai keinginan
