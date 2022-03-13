@@ -26,13 +26,20 @@
 
 ```ts
 {
-   "clientID": "s7wbljmueF974KZ3INGoig==",
-   "serverToken": "1@wrhs27QrJdzbLj70tfaVs7Pmw61qPXoOfHUyjIXLnTlp3JzHmZLPSRA4q2A1YyXokwpqXKfV8M14vw==",
-   "clientToken": "azA7WSUpg7o6ckgikx89PTacIGO95/E2ejcdq3FoCgQ=",
-   "encKey": "RfGDwN4pbkC8U4UC9i8PaOUVisMOSqGkoe2Set7SWH8=",
-   "macKey": "PXBJW3m/fSZ58LPv5WwDbJ9yf2jjm2llMGNHDqfD4gM="
+
+	"clientID": "7c0/4lwcpA8zTRjJNV8BmQ==",
+
+	"serverToken": "1@mm/UPYcZNz4gu+gx+bfjzk3VPPNWNUEvGRFRBjdgCdzw9tSe40se0Us+ngIDf79Vevtq/PLzDemkDA==",
+
+	"clientToken": "lhhWS4Sws8XQHWuJoXVL2HXc2hjBcAfGTMYoFF0gf48=",
+
+	"encKey": "ZpPiaS3a3sbt/iul7P+fiEG+5JsXW32FssJu1OuPydo=",
+
+	"macKey": "iQ/1iZjbo6DKcM2GMbAolA07w4GslesOZLXQTvwKxR4="
+
 }
-```
+
+
 ## `SETTING`
 
 ```ts
@@ -47,15 +54,15 @@
 	"auto_leave_msg": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
+	"ownerNumber": "601111829561",
+	"ownerNumberr": "601111829561",
 	"cr": "@ZeeoneOfcོ",
-	"ownername": "ZeeoneOfcོ",
-	"botname":"ALPHABOT",
+	"ownername": "𓏲 ֗ ⌗ 🧋 ⴖ𝘹ᥣyⴖɦ 🥞 お ִֶָ 𓄼",
+	"botname":"ⴖ𝘹ᥣyⴖɦɓoᴛ",
 	"thumb":"thumbnail_1.jpg",
 	"thumbnail":"thumbnail_2.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  ALPHABOT  」\nCreated By @ZeeoneOfcོ"
+	"fake": " ꒰ ⴖ𝘹ᥣyⴖɦɓoᴛ ꒱\nCreated By @nxlynh"
 }
 ```
 
