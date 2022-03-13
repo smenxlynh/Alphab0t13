@@ -58,7 +58,7 @@
 	"ownerNumberr": "601111829561",
 	"cr": "@ZeeoneOfcོ",
 	"ownername": "𓏲 ֗ ⌗ 🧋 ⴖ𝘹ᥣyⴖɦ 🥞 お ִֶָ 𓄼",
-	"botname":"ⴖ𝘹ᥣyⴖɦɓoᴛ",
+	"botname":"nxlynhbot",
 	"thumb":"thumbnail_1.jpg",
 	"thumbnail":"thumbnail_2.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
