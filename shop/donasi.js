@@ -14,12 +14,12 @@ return `DONASI BISA VIA BANK / E-MONEY
 	
 *💰 E-MONEY*
 
-1. GOPAY
-	ㅁ 0895 2551 8325
-2. OVO
-	ㅁ TIDAK TERSEDIA
-3. DANA
-	ㅁ 0812 8586 6502
+1. chat aja owner nya
+	
+
+
+
+	
 	
 Semuanya atas nama B***R**
 `
